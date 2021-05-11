@@ -1,0 +1,53 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');        
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.center{
+    
+    margin: auto;
+    width:60%;
+}
+
+body  {
+                color: black;
+                background-color:skyblue;
+                margin-top: 100px;
+}
+
+
+
+h1,h2,h3,h4{
+                
+            color:#8000ff;
+          
+        
+
+}
+
+h1,h2{font-size: 100px; }
+      
+
+    h2,h3,h4,h5{  
+            
+
+           font-family: 'Nanum Pen Script', cursive;
+             
+            
+}
+p1{ font-family: 'Itim', cursive;}
+p1{font-size: 50px}
+P1{color:#8000ff;}
+p2{font-family:font-family: 'Itim', cursive; }
+p2{font-size: 30px}
+p2{color:darkblue}
+
+h1{ 
+font-family: 'Dancing Script', cursive;}
+
+
+                                  
+            
