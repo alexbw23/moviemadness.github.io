@@ -29,6 +29,8 @@ body {margin:0;}
 
 .menu {
   background-color: mediumpurple;
+     margin:0;
+    width:100%;
 }
 
 
@@ -57,7 +59,7 @@ body {margin:0;}
 .nav li a {
   display: block;
   color: white;
-  text-align: center;
+   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
